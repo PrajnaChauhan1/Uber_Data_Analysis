@@ -49,8 +49,8 @@ The analysis provides a clear understanding of Uber ride booking behaviors, enab
 
 ## 👥 Contributors
 
-* Data Analyst: \[Your Name]
-* Project Duration: \[Dates]
+* Data Analyst: \[Prajna chauhan]
+
 
 ---
 
