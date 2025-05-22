@@ -39,9 +39,6 @@ Uber ride booking data was analyzed to extract key insights regarding customer p
 
 ---
 
-## 📈 Visualizations
-
-*(Insert charts here such as bar graphs for categories, line graphs for booking times, heatmaps for days/months)*
 
 ---
 
