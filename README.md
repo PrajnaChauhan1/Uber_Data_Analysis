@@ -37,7 +37,6 @@ Uber ride booking data was analyzed to extract key insights regarding customer p
   * Aggregating rides by time, date, and category
 * **Analysis Approach:** Statistical summaries and trend analysis to answer core questions
 
----
 
 
 ---
